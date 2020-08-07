@@ -1,5 +1,5 @@
 ### Hi there 👋
-<b> I am Somya 😄 </b>
+
 
 <!--
 **somya22/somya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
